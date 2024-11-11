@@ -1,7 +1,7 @@
 <h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: TANESSHA KANNAN</h3>
 <h3>Register Number: 212223040225</h3>
-
+<br>
 
 ## AIM:
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -46,8 +46,9 @@
 <p>Clean the room and Search for dirt and Suck it.</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented</p>
+<br>
 
-## PROGRAM CODE:
+## PROGRAM:
 ```
 import random
 import time
